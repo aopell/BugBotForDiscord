@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS Code
+.vscode/
+
+# Private Key
+gh-app-key.pem
+
+# Tokens, etc.
+secret.json
