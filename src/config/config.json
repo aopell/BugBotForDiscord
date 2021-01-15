@@ -1,4 +1,1 @@
-{
-    "default_prefix": "+",
-    "guild_options": []
-}
+{"default_prefix": "+", "guild_options": {"145685113064259584": {"admin_role": 249679925970337792, "categories": [{"emoji": "\ud83d\udc1e", "icon": "\ud83c\udf89", "name": "Bug", "prefix": "BUG"}], "github_owner": "aopell", "github_project": 6057550, "github_repo": "SchoologyPlus", "guild_id": 145685113064259584, "log_channel": 145685113064259584, "min_votes": 3, "voter_role": 396470307482763267, "voting_channels": [145685113064259584]}}}

@@ -7,6 +7,7 @@ class IssueCategory:
     name: str
     prefix: str
     icon: str
+    emoji: str
 
 
 @dataclass
@@ -20,6 +21,7 @@ class GuildOptions:
     
     github_owner: str
     github_repo: str
+    github_project: int
 
     voting_channels: List[int]
     categories: List[IssueCategory]
